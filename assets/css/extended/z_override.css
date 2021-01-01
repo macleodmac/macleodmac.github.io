@@ -1,0 +1,21 @@
+:root {
+    --radius: 4px;
+}
+
+.pagination a {
+    border-radius: 4px;
+}
+
+.first-entry {
+    min-height: 200px;
+}
+
+.post-content:not(.gist)>.highlight, .post-content pre {
+    background: black !important;
+    font-size: 19px;
+}
+
+.social-icons a svg {
+    height: 42px;
+    width: 42px;
+}

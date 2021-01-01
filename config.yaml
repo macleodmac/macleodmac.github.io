@@ -1,0 +1,68 @@
+baseURL: "http://macleod.in"
+title: Jamie MacLeod
+paginate: 99999
+theme: PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production
+    enableEmoji: true
+    pygmentsUseClasses: true
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    authors: Theme PaperMod
+    ShowReadingTime: true
+    defaultTheme: light
+    ShowShareButtons: false
+    displayFullLangName: false
+
+    homeInfoParams:
+        Title: "Nice to meet you! \U0001F30A"
+        Content: >
+            I'm **Jamie MacLeod**, a Senior Software Engineer currently working in a backend team at [Primer](https://primer.io/).
+    socialIcons:
+        - name: linkedin
+          url: "https://www.linkedin.com/in/jamie-macleod/"
+        - name: github
+          url: "https://github.com/macleodmac"
+        - name: strava
+          url: "https://www.strava.com/athletes/14869209"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+privacy:
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
