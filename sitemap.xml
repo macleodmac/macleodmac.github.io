@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://macleod.in/tags/emoji/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/posts/incident-management/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/posts/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/tags/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/search/</loc>
+  </url>
+  
+  <url>
+    <loc>http://macleod.in/series/</loc>
+  </url>
+  
+</urlset>
