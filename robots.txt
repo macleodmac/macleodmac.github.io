@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://macleod.in/sitemap.xml
+Sitemap: https://macleodmac.github.io/macleod.in/sitemap.xml
