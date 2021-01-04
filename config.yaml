@@ -1,4 +1,4 @@
-baseURL: "https://macleodmac.github.io"
+baseURL: "https://macleod.in"
 title: Jamie MacLeod
 paginate: 99999
 theme: PaperMod
@@ -28,8 +28,8 @@ params:
     env: production
     enableEmoji: true
     pygmentsUseClasses: true
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    authors: Theme PaperMod
+    description: "Jamie MacLeod"
+    authors: Jamie MacLeod
     ShowReadingTime: true
     defaultTheme: light
     ShowShareButtons: false
