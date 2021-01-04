@@ -7,7 +7,6 @@ enableRobotsTXT: true
 
 minify:
     disableXML: true
-    # minifyOutput: true
 
 languages:
     en:
@@ -17,6 +16,9 @@ languages:
             main:
                 - name: Archive
                   url: archives
+                  weight: 5
+                - name: Tags
+                  url: tags
                   weight: 5
 outputs:
     home:
