@@ -40,14 +40,12 @@ params:
     homeInfoParams:
         Title: "Nice to meet you! \U0001F30A"
         Content: >
-            I'm **Jamie MacLeod**, a Senior Software Engineer currently working in a backend team at [Primer](https://primer.io/).
+            I'm **Jamie MacLeod**, a Software Engineer and Team Lead currently working at [Primer](https://primer.io/).
     socialIcons:
         - name: linkedin
           url: "https://www.linkedin.com/in/jamie-macleod/"
         - name: github
           url: "https://github.com/macleodmac"
-        - name: strava
-          url: "https://www.strava.com/athletes/14869209"
 
 taxonomies:
     category: categories
