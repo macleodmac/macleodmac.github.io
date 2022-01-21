@@ -40,7 +40,7 @@ params:
     homeInfoParams:
         Title: "Nice to meet you! \U0001F30A"
         Content: >
-            I'm **Jamie MacLeod**, a Software Engineer and Team Lead currently working at [Primer](https://primer.io/).
+            I'm **Jamie**, a Software Engineer and Manager currently working at [Primer](https://primer.io/).
     socialIcons:
         - name: linkedin
           url: "https://www.linkedin.com/in/jamie-macleod/"
