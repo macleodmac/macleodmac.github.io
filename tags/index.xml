@@ -4,16 +4,6 @@
     <title>Tags on Jamie MacLeod</title>
     <link>https://macleod.in/tags/</link>
     <description>Recent content in Tags on Jamie MacLeod</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://macleod.in/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>blog</title>
-      <link>https://macleod.in/tags/blog/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://macleod.in/tags/blog/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://macleod.in/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
